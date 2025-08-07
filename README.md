@@ -37,8 +37,8 @@ I’m Marri Laharika, an enthusiastic AI/ML Engineer passionate about **Data Sci
 ### [🔗 Twitter Bot Detection](https://github.com/laharika0127/detecting-twitter-bots)
 A machine learning model that identifies bot accounts on Twitter using behavior patterns and metadata analysis.
 
-### Graphical Password Authentication System
-A secure graphical image-based authentication system designed to enhance traditional password security.
+### [🔐 Graphical Password Authentication System](https://github.com/laharika0127/graphical-password-authentication)
+A secure graphical image-based authentication system designed to enhance traditional password security using Tkinter in Python.
 
 ---
 
@@ -47,7 +47,6 @@ A secure graphical image-based authentication system designed to enhance traditi
 - 📧 Email: [laharikamarri@gmail.com](mailto:laharikamarri@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/laharikamarri/)  
 - 💻 [GitHub](https://github.com/laharika0127)  
-- 🧠 [LeetCode](https://leetcode.com/u/laharika27/)  
 - 📄 [Resume (Google Drive)](https://drive.google.com/file/d/16Vh_1Utb96JZwlknwgifKvluuLgx3Gg7/view)
 
 ---
