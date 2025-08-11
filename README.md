@@ -6,9 +6,9 @@
 <h3 align="center">💡 AI/ML Engineer | 📊 Data Science Enthusiast | 🚀 Turning Ideas into Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Passionate-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-green?style=for-the-badge&logo=databricks" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-orange?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/AI%2FML-Passionate-blue?style=for-the-badge&logo=python" alt="AI/ML Passionate Badge" />
+  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-green?style=for-the-badge&logo=databricks" alt="Data Science Enthusiast Badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-orange?style=for-the-badge&logo=codeforces" alt="Problem Solver Badge" />
 </p>
 
 ---
@@ -32,12 +32,12 @@
 ## 💼 Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/Data%20Science-1E90FF?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-FFD700?style=for-the-badge&logo=hackerrank" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn" alt="Machine Learning Badge" />
+  <img src="https://img.shields.io/badge/Data%20Science-1E90FF?style=for-the-badge&logo=pandas" alt="Data Science Badge" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-FFD700?style=for-the-badge&logo=hackerrank" alt="Problem Solving Badge" />
 </p>
 
 ---
