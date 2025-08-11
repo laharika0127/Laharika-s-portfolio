@@ -1,5 +1,8 @@
-<!-- HEADER -->
-<h1 align="center">🌟 Marri Laharika – Portfolio</h1>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Marri%20Laharika%20Portfolio&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Banner"/>
+</p>
+
 <h3 align="center">💡 AI/ML Engineer | 📊 Data Science Enthusiast | 🚀 Turning Ideas into Intelligent Systems</h3>
 
 <p align="center">
@@ -41,27 +44,25 @@
 
 ## 🚀 Projects
 
-### [🔗 Twitter Bot Detection](https://github.com/laharika0127/detecting-twitter-bots)
-📌 A **machine learning model** that identifies bot accounts on Twitter by analyzing **behavior patterns** and **metadata**.  
-![Twitter Bot Detection](https://img.shields.io/badge/Machine%20Learning-Model-blue?style=flat-square)
+### 🔗 [Twitter Bot Detection](https://github.com/laharika0127/detecting-twitter-bots)
+📌 A **machine learning model** that identifies bot accounts on Twitter by analyzing **behavior patterns** and **metadata**.
 
 ---
 
-### [🔐 Graphical Password Authentication System](https://github.com/laharika0127/graphical-password-authentication)
-📌 A secure **image-based authentication system** built with **Tkinter (Python)** to enhance password security.  
-![Graphical Password Auth](https://img.shields.io/badge/Security-Enhanced-red?style=flat-square)
+### 🔐 [Graphical Password Authentication System](https://github.com/laharika0127/graphical-password-authentication)
+📌 A secure **image-based authentication system** built with **Tkinter (Python)** to enhance password security.
 
 ---
 
 ## 📬 Contact
 
-<p>
-  📧 **Email:** [laharikamarri@gmail.com](mailto:laharikamarri@gmail.com)  
-  🔗 **LinkedIn:** [linkedin.com/in/laharikamarri](https://www.linkedin.com/in/laharikamarri/)  
-  💻 **GitHub:** [github.com/laharika0127](https://github.com/laharika0127)  
-  📄 **Resume:** [Google Drive Link](https://drive.google.com/file/d/16Vh_1Utb96JZwlknwgifKvluuLgx3Gg7/view)  
-</p>
+📧 **Email:** [laharikamarri@gmail.com](mailto:laharikamarri@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/laharikamarri](https://www.linkedin.com/in/laharikamarri/)  
+💻 **GitHub:** [github.com/laharika0127](https://github.com/laharika0127)  
+📄 **Resume:** [Google Drive Link](https://drive.google.com/file/d/16Vh_1Utb96JZwlknwgifKvluuLgx3Gg7/view)  
 
 ---
 
-<p align="center">© 2025 Marri Laharika. All rights reserved.</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=100&section=footer"/>
+</p>
