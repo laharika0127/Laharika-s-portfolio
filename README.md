@@ -49,9 +49,7 @@
 ## 📬 Contact
 
 📧 **Email:** [laharikamarri@gmail.com](mailto:laharikamarri@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/laharikamarri](https://www.linkedin.com/in/laharikamarri/)  
-💻 **GitHub:** [github.com/laharika0127](https://github.com/laharika0127)  
-📄 **Resume:** [Google Drive Link](https://drive.google.com/file/d/16Vh_1Utb96JZwlknwgifKvluuLgx3Gg7/view)  
+🔗 **GitHub:** [github.com/laharika0127](https://github.com/laharika0127)  
 
 ---
 
