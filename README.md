@@ -5,55 +5,56 @@
 
 <h3 align="center">💡 AI/ML Engineer | 📊 Data Science Enthusiast | 🚀 Turning Ideas into Intelligent Systems</h3>
 
----
+<hr/>
 
-## 👩‍💻 About Me
-🎯 I’m **Marri Laharika**, an enthusiastic **AI/ML Engineer** passionate about **Data Science** and building **intelligent, data-driven solutions** for real-world problems.  
-💬 I enjoy working on projects that combine creativity with analytical thinking.
+<p><strong>👩‍💻 About Me</strong></p>
+<p>🎯 I’m <strong>Marri Laharika</strong>, an enthusiastic <strong>AI/ML Engineer</strong> passionate about <strong>Data Science</strong> and building <strong>intelligent, data-driven solutions</strong> for real-world problems.<br/>
+💬 I enjoy working on projects that combine creativity with analytical thinking.</p>
 
----
+<hr/>
 
-## 🎓 Education
+<p><strong>🎓 Education</strong></p>
 
-| 🎓 Degree                     | 🏫 Institution                    | 📅 Duration | 📈 Performance |
-|------------------------------|------------------------------------|-------------|----------------|
-| **B.Tech – CSE (AI & ML)**   | St. Martins Engineering College    | 2022–2026   | **CGPA: 8.4**  |
-| Intermediate – MPC           | Trividyaa Junior College           | 2020–2022   | **95%**        |
-| High School                  | St. Peters Public School           | Up to 2020  | **88%**        |
+<table>
+<tr><th>🎓 Degree</th><th>🏫 Institution</th><th>📅 Duration</th><th>📈 Performance</th></tr>
+<tr><td><strong>B.Tech – CSE (AI & ML)</strong></td><td>St. Martins Engineering College</td><td>2022–2026</td><td><strong>CGPA: 8.4</strong></td></tr>
+<tr><td>Intermediate – MPC</td><td>Trividyaa Junior College</td><td>2020–2022</td><td><strong>95%</strong></td></tr>
+<tr><td>High School</td><td>St. Peters Public School</td><td>Up to 2020</td><td><strong>88%</strong></td></tr>
+</table>
 
----
+<hr/>
 
-## Skills
+<p><strong>💼 Skills</strong></p>
+<ul>
+<li>Python</li>
+<li>Machine Learning</li>
+<li>Data Science</li>
+<li>HTML</li>
+<li>GitHub</li>
+<li>Problem Solving</li>
+</ul>
 
-- **Python**
-- **Machine Learning**
-- **Data Science**
-- **HTML**
-- **GitHub**
-- **Problem Solving**
+<hr/>
 
----
+<p><strong>🚀 Projects</strong></p>
 
-## Projects
+<p><strong>Twitter Bot Detection</strong><br/>
+📌 A <strong>machine learning model</strong> that identifies bot accounts on Twitter by analyzing <strong>behavior patterns</strong> and <strong>metadata</strong>.<br/>
+🔗 GitHub: <a href="https://github.com/laharika0127/detecting-twitter-bots">Twitter Bot Detection</a>
+</p>
 
-### Twitter Bot Detection
-📌 A **machine learning model** that identifies bot accounts on Twitter by analyzing **behavior patterns** and **metadata**.  
-🔗 GitHub: [Twitter Bot Detection](https://github.com/laharika0127/detecting-twitter-bots)
+<p><strong>Graphical Password Authentication System</strong><br/>
+📌 A secure <strong>image-based authentication system</strong> built with <strong>Tkinter (Python)</strong> to enhance password security.<br/>
+🔗 GitHub: <a href="https://github.com/laharika0127/graphical-password-authentication">Graphical Password Authentication System</a>
+</p>
 
----
+<hr/>
 
-### Graphical Password Authentication System
-📌 A secure **image-based authentication system** built with **Tkinter (Python)** to enhance password security.  
-🔗 GitHub: [Graphical Password Authentication System](https://github.com/laharika0127/graphical-password-authentication)
+<p><strong>📬 Contact</strong></p>
+<p>📧 Email: <a href="mailto:laharikamarri@gmail.com">laharikamarri@gmail.com</a><br/>
+🔗 GitHub: <a href="https://github.com/laharika0127">github.com/laharika0127</a></p>
 
----
-
-## Contact
-
-📧 **Email:** [laharikamarri@gmail.com](mailto:laharikamarri@gmail.com)  
-🔗 **GitHub:** [github.com/laharika0127](https://github.com/laharika0127)  
-
----
+<hr/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=100&section=footer"/>
