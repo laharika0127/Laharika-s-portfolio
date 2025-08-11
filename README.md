@@ -5,12 +5,6 @@
 
 <h3 align="center">💡 AI/ML Engineer | 📊 Data Science Enthusiast | 🚀 Turning Ideas into Intelligent Systems</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Passionate-blue?style=for-the-badge&logo=python" alt="AI/ML Passionate Badge" />
-  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-green?style=for-the-badge&logo=databricks" alt="Data Science Enthusiast Badge" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-orange?style=for-the-badge&logo=codeforces" alt="Problem Solver Badge" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
