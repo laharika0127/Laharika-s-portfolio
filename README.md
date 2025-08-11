@@ -50,12 +50,17 @@
 
 <hr/>
 
-<p><strong>📬 Contact</strong></p>
-<p>📧 **Email**: <a href="mailto:laharikamarri@gmail.com">laharikamarri@gmail.com</a><br/>
- 💻**GitHub**: <a href="https://github.com/laharika0127">github.com/laharika0127</a><br/>
-🔗 **LinkedIn**: <a [linkedin.com/in/laharikamarri](https://www.linkedin.com/in/laharikamarri/)</a><br/>
-📄 **Resume**: <a [Google Drive Link](https://drive.google.com/file/d/16Vh_1Utb96JZwlknwgifKvluuLgx3Gg7/view)</a><br/>
-</p>
+## 📬 Contact
+
+📧 **Email:** [laharikamarri@gmail.com](mailto:laharikamarri@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/laharikamarri](https://www.linkedin.com/in/laharikamarri/)  
+💻 **GitHub:** [github.com/laharika0127](https://github.com/laharika0127)  
+📄 **Resume:** [Google Drive Link](https://drive.google.com/file/d/16Vh_1Utb96JZwlknwgifKvluuLgx3Gg7/view)  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=100&section=footer"/>
 
 <hr/>
 
