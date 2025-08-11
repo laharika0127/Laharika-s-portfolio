@@ -3,8 +3,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Marri%20Laharika&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Banner"/>
 </p>
 
-<!-- TITLE -->
 <h3 align="center">💡 AI/ML Engineer</h3>
+
+---
+
+## 👩‍💻 About Me
+Hi! I'm **Marri Laharika**, an enthusiastic AI/ML Engineer passionate about building intelligent systems and secure authentication solutions.  
+I enjoy working on innovative projects that combine **machine learning, data analysis, and automation** to solve real-world problems.
+
+---
+
+## 🛠 Skills
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
