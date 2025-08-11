@@ -3,48 +3,28 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Marri%20Laharika&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Banner"/>
 </p>
 
-<!-- Tagline -->
-<p align="center"><strong>💡 AI/ML Engineer | 📊 Data Science Enthusiast | 🚀 Turning Ideas into Intelligent Systems</strong></p>
-
----
-
-## 🧑‍💼 About Me
-<p align="justify">
-I am Marri Laharika, a passionate AI/ML Engineer and Data Science enthusiast dedicated to transforming innovative ideas into practical, intelligent solutions. My expertise spans across machine learning, deep learning, computer vision, and data analytics. I thrive on solving complex problems, optimizing models, and delivering impactful results.  
-With a strong academic foundation and hands-on project experience, I aim to contribute to cutting-edge research and real-world applications in AI, ensuring scalable, efficient, and ethical technology.
-</p>
+<!-- TITLE -->
+<h3 align="center">💡 AI/ML Engineer</h3>
 
 ---
 
 ## 🚀 Projects
-Here are some of my featured works:
 
-- **Graphical Password Authentication** – Secure login using image-based password segments.
-- **Twitter Bot Detection** – Machine learning model to detect bot accounts with high accuracy.
-
-[🔗 View All Projects](https://github.com/laharika0127?tab=repositories)
-
----
-
-## 🛠 Skills
-- **Programming:** Python, Java, C, HTML  
-- **AI&ML:** Machine Learning, Data Science
-- **Tools & Platforms:** Git, Jupyter, VS Code  
+### 🎨 Graphical Password Authentication  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+🔹 **Description:** A secure image-based password authentication system with segment-based selection and GUI-based login.  
+🔹 **GitHub:** [View Repository](https://github.com/laharika0127/graphical-password-authentication)
 
 ---
 
-## 📬 Contact
-- 📧 **Email:** [laharikamari@gmail.com](mailto:laharikamari@gmail.com)  
-- 📄 **Resume:** [Google Drive Link](https://drive.google.com/file/d/16Vh_1Utb96JZwlknwgifKvluuLgx3Gg7/view)  
-- 🔗 **LinkedIn:** [linkedin.com/in/laharikamarri](https://www.linkedin.com/in/laharikamarri/)  
+### 🤖 Twitter Bot Detection  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange)  
+🔹 **Description:** A machine learning-based system to detect and classify Twitter accounts as bots or genuine users.  
+🔹 **GitHub:** [View Repository](https://github.com/laharika0127/twitter-bot-detection)
 
 ---
 
-<p align="center">
-  <em>“Turning ideas into reality with the power of AI.”</em>
-</p>
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=100&section=footer"/>
-</p>
+## 📫 Contact  
+📄 **Resume:** [Google Drive Link](https://drive.google.com/file/d/16Vh_1Utb96JZwlknwgifKvluuLgx3Gg7/view)  
+🔗 **LinkedIn:** [linkedin.com/in/laharikamarri](https://www.linkedin.com/in/laharikamarri/)  
+📧 **Email:** laharikamari@gmail.com  
