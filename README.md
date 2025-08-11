@@ -7,42 +7,37 @@
 
 ---
 
-## 👩‍💻 About Me
-Hi! I'm **Marri Laharika**, an enthusiastic AI/ML Engineer passionate about building intelligent systems and secure authentication solutions.  
-I enjoy working on innovative projects that combine **machine learning, data analysis, and automation** to solve real-world problems.
+## 👩‍💻 About Me  
+I am an aspiring AI/ML Engineer with a passion for creating innovative solutions that bridge the gap between technology and real-world problems.  
+I enjoy building projects that combine creativity, functionality, and performance.
 
 ---
 
-## 🛠 Skills
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+## 🛠 Skills  
+- **Programming Languages:** Python, Java, C, HTML 
+- **AI/ML:** Machine Learning, Data Science 
+- **Tools & Platforms:** VS Code, Git, Jupyter
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects  
 
-### 🎨 Graphical Password Authentication  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+### 📌 Graphical Password Authentication  
 🔹 **Description:** A secure image-based password authentication system with segment-based selection and GUI-based login.  
-🔹 **GitHub:** [View Repository](https://github.com/laharika0127/graphical-password-authentication)
+🔹 **Tech Stack:** Python, Tkinter, PIL  
+🔹 **GitHub Repo:** [View Project](https://github.com/laharika0127/graphical-password-authentication)  
 
 ---
 
-### 🤖 Twitter Bot Detection  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange)  
-🔹 **Description:** A machine learning-based system to detect and classify Twitter accounts as bots or genuine users.  
-🔹 **GitHub:** [View Repository](https://github.com/laharika0127/twitter-bot-detection)
+### 📌 Twitter Bot Detection  
+🔹 **Description:** A machine learning model to detect bot accounts on Twitter based on activity and profile features.  
+🔹 **Tech Stack:** Python, Scikit-learn, Pandas  
+🔹 **GitHub Repo:** [View Project](https://github.com/laharika0127/twitter-bot-detection)  
 
 ---
 
-## 📫 Contact  
-📄 **Resume:** [Google Drive Link](https://drive.google.com/file/d/16Vh_1Utb96JZwlknwgifKvluuLgx3Gg7/view)  
-🔗 **LinkedIn:** [linkedin.com/in/laharikamarri](https://www.linkedin.com/in/laharikamarri/)  
-📧 **Email:** laharikamari@gmail.com  
+## 📬 Contact  
+- 📧 **Email:** [laharikamari@gmail.com](mailto:laharikamari@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/laharikamarri](https://www.linkedin.com/in/laharikamarri/)  
+- 📄 **Resume:** [Google Drive Link](https://drive.google.com/file/d/16Vh_1Utb96JZwlknwgifKvluuLgx3Gg7/view)  
+- 💻 **GitHub:** [github.com/laharika0127](https://github.com/laharika0127)  
