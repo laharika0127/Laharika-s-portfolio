@@ -25,14 +25,12 @@
 
 ## 💼 Skills
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn" alt="Machine Learning Badge" />
-  <img src="https://img.shields.io/badge/Data%20Science-1E90FF?style=for-the-badge&logo=pandas" alt="Data Science Badge" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-FFD700?style=for-the-badge&logo=hackerrank" alt="Problem Solving Badge" />
-</p>
+- **Python**
+- **Machine Learning**
+- **Data Science**
+- **HTML**
+- **GitHub**
+- **Problem Solving**
 
 ---
 
