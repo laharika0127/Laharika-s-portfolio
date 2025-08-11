@@ -51,8 +51,11 @@
 <hr/>
 
 <p><strong>📬 Contact</strong></p>
-<p>📧 Email: <a href="mailto:laharikamarri@gmail.com">laharikamarri@gmail.com</a><br/>
-🔗 GitHub: <a href="https://github.com/laharika0127">github.com/laharika0127</a></p>
+<p>📧 **Email**: <a href="mailto:laharikamarri@gmail.com">laharikamarri@gmail.com</a><br/>
+ 💻**GitHub**: <a href="https://github.com/laharika0127">github.com/laharika0127</a><br/>
+🔗 **LinkedIn**: <a [linkedin.com/in/laharikamarri](https://www.linkedin.com/in/laharikamarri/)</a><br/>
+📄 **Resume**: <a [Google Drive Link](https://drive.google.com/file/d/16Vh_1Utb96JZwlknwgifKvluuLgx3Gg7/view)</a><br/>
+</p>
 
 <hr/>
 
