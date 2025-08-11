@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Marri%20Laharika%20Portfolio&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Banner"/>
 </p>
 
-<h3 align="center">💡 AI/ML Engineer | 📊 Data Science Enthusiast | 🚀 Turning Ideas into Intelligent Systems</h3>
+<p align="center"><strong>💡 AI/ML Engineer | 📊 Data Science Enthusiast | 🚀 Turning Ideas into Intelligent Systems</strong></p>
 
 <hr/>
 
