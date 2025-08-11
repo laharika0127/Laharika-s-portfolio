@@ -23,7 +23,7 @@
 
 ---
 
-## 💼 Skills
+## Skills
 
 - **Python**
 - **Machine Learning**
@@ -34,19 +34,21 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔗 [Twitter Bot Detection](https://github.com/laharika0127/detecting-twitter-bots)
-📌 A **machine learning model** that identifies bot accounts on Twitter by analyzing **behavior patterns** and **metadata**.
-
----
-
-### 🔐 [Graphical Password Authentication System](https://github.com/laharika0127/graphical-password-authentication)
-📌 A secure **image-based authentication system** built with **Tkinter (Python)** to enhance password security.
+### Twitter Bot Detection
+📌 A **machine learning model** that identifies bot accounts on Twitter by analyzing **behavior patterns** and **metadata**.  
+🔗 GitHub: [Twitter Bot Detection](https://github.com/laharika0127/detecting-twitter-bots)
 
 ---
 
-## 📬 Contact
+### Graphical Password Authentication System
+📌 A secure **image-based authentication system** built with **Tkinter (Python)** to enhance password security.  
+🔗 GitHub: [Graphical Password Authentication System](https://github.com/laharika0127/graphical-password-authentication)
+
+---
+
+## Contact
 
 📧 **Email:** [laharikamarri@gmail.com](mailto:laharikamarri@gmail.com)  
 🔗 **GitHub:** [github.com/laharika0127](https://github.com/laharika0127)  
