@@ -23,10 +23,9 @@ I’m Marri Laharika, an enthusiastic AI/ML Engineer passionate about **Data Sci
 ## 💼 Skills
 
 - Python  
-- Machine Learning  
-- Deep Learning  
+- Machine Learning   
 - Data Science  
-- HTML, CSS, JavaScript  
+- HTML
 - Git & GitHub  
 - Problem Solving  
 
