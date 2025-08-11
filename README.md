@@ -27,7 +27,6 @@ I enjoy building projects that combine creativity, functionality, and performanc
 🔹 **Tech Stack:** Python, Tkinter, PIL  
 🔹 **GitHub Repo:** [View Project](https://github.com/laharika0127/graphical-password-authentication)  
 
----
 
 ### 📌 Twitter Bot Detection  
 🔹 **Description:** A machine learning model to detect bot accounts on Twitter based on activity and profile features.  
