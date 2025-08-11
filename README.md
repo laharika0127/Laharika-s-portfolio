@@ -42,7 +42,7 @@ I enjoy building projects that combine creativity, functionality, and performanc
 - 📄 **Resume:** [Google Drive Link](https://drive.google.com/file/d/16Vh_1Utb96JZwlknwgifKvluuLgx3Gg7/view)  
 - 💻 **GitHub:** [github.com/laharika0127](https://github.com/laharika0127)  
 
-<p align="center"><b>“Turning ideas into intelligent solutions — one line of code at a time.”</b></p>
+<p align="center"><i>“Turning ideas into intelligent solutions — one line of code at a time.”</i></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=120&section=footer"/>
