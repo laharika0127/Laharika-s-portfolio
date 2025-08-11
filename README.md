@@ -21,18 +21,15 @@ Here are some of my featured works:
 
 - **Graphical Password Authentication** – Secure login using image-based password segments.
 - **Twitter Bot Detection** – Machine learning model to detect bot accounts with high accuracy.
-- **Sales Data Dashboard** – Interactive data visualization and insights using Python and Power BI.
 
 [🔗 View All Projects](https://github.com/laharika0127?tab=repositories)
 
 ---
 
 ## 🛠 Skills
-- **Programming:** Python, Java, SQL  
-- **AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-learn  
-- **Data Visualization:** Power BI, Matplotlib, Seaborn  
+- **Programming:** Python, Java, C, HTML  
+- **AI&ML:** Machine Learning, Data Science
 - **Tools & Platforms:** Git, Jupyter, VS Code  
-- **Other:** Data Cleaning, Feature Engineering, Model Optimization  
 
 ---
 
