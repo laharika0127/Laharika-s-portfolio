@@ -17,7 +17,7 @@
 
 <table>
 <tr><th>🎓 Degree</th><th>🏫 Institution</th><th>📅 Duration</th><th>📈 Performance</th></tr>
-<tr><td><strong>B.Tech – CSE (AI & ML)</strong></td><td>St. Martins Engineering College</td><td>2022–2026</td><td><strong>CGPA: 8.4</strong></td></tr>
+<tr><td>B.Tech – CSE (AI & ML)</td><td>St. Martins Engineering College</td><td>2022–2026</td><td><strong>CGPA: 8.4</strong></td></tr>
 <tr><td>Intermediate – MPC</td><td>Trividyaa Junior College</td><td>2020–2022</td><td><strong>95%</strong></td></tr>
 <tr><td>High School</td><td>St. Peters Public School</td><td>Up to 2020</td><td><strong>88%</strong></td></tr>
 </table>
